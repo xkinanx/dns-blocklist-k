@@ -1,9 +1,20 @@
 ! Title: My DNS Blocklist
 ! Description: Block domains containing "truyen" + some extras
 ! Version: 2026.01.07
-! Expires: 1 day
-@@||tieuthuyet.vn^$dns
-@@||laophatgia.net^$dns
-@@||noveltoon.vn^$dns
-@@||rookies.vn^$dns
-@@||kenhsinhvien.vn^$dns
+! Expires: 7 day
+||tieuthuyet.vn^
+||laophatgia.net^
+||noveltoon.vn^
+||rookies.vn^
+||kenhsinhvien.vn^
+||honeymoontrust.co.uk^
+||meosua.com^
+||jrheffnerracing.com^
+||pops.vn^
+||manwa.vn^
+||tenten.vn^
+||manhuavn.top^
+||toidoc.vn^
+||roadsteam.net^
+||bbcosplay.com^
+||thanhnhacchau.com^
