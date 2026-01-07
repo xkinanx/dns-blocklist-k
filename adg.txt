@@ -2,10 +2,8 @@
 ! Description: Block domains containing "truyen" + some extras
 ! Version: 2026.01.07
 ! Expires: 1 day
-
-||*truyen*^$dns
-||example-bad-site.com^$dns
 @@||tieuthuyet.vn^$dns
 @@||laophatgia.net^$dns
 @@||noveltoon.vn^$dns
 @@||rookies.vn^$dns
+@@||kenhsinhvien.vn^$dns
