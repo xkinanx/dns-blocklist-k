@@ -1,6 +1,6 @@
 ! Title: My DNS Blocklist
 ! Description: Block domains containing "truyen" + some extras
-! Version: 2026.01.07
+! Version: 2026.01.26
 ! Expires: 7 day
 ||tieuthuyet.vn^
 ||laophatgia.net^
