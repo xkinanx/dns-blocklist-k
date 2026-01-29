@@ -85,3 +85,4 @@
 ||yesichat.com^
 ||meetme.com^
 ||skout.com^
+||*truyen*^
