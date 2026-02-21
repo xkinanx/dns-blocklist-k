@@ -87,3 +87,5 @@
 ||meetme.com^
 ||skout.com^
 ||*truyen*^
+||jobnib.com^
+||papyruspub^
