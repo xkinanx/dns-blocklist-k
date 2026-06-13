@@ -1,6 +1,6 @@
 ! Title: My DNS Blocklist
 ! Description: Block domains containing "truyen" + some extras
-! Version: 2026.01.26
+! Version: 2026.06.13
 ! Expires: 7 day
 ||tieuthuyet.vn^
 ||laophatgia.net^
@@ -89,3 +89,28 @@
 ||*truyen*^
 ||jobnib.com^
 ||papyruspub^
+||dokichat.club^
+||dokichat.com^
+||chai.ml^
+||chai-research.com^
+||janitorai.com^
+||character.ai^
+||beta.character.ai^
+||crushon.ai^
+||cushon.ai^
+||candy.ai^
+||spicychat.ai^
+||venusai.chat^
+||chub.ai^
+||sillytavern.app^
+||replika.com^
+||replika.ai^
+||animaai.com^
+||sakura.fm^
+||joyland.ai^
+||poly.ai^
+||rochat.ai^
+||dippy.ai^
+||moescape.ai^
+||peva.ai^
+||talkie-ai.com^
