@@ -115,3 +115,73 @@
 ||peva.ai^
 ||talkie-ai.com^
 ||vrace.com.vn^
+! [NordVPN]
+||nordvpn.com^
+||nordcdn.com^
+||nord-dns.com^
+||api.nordvpn.com^
+
+! [ExpressVPN]
+||expressvpn.com^
+||expressvpn.xyz^
+||xvbelast.com^
+||dv-atest.com^
+
+! [Surfshark]
+||surfshark.com^
+||surfshark.com.cdn.cloudflare.net^
+||api.surfshark.com^
+
+! [ProtonVPN]
+||protonvpn.com^
+||protonvpn.ch^
+||api.protonvpn.ch^
+
+! [CyberGhost]
+||cyberghostvpn.com^
+||api.cyberghostvpn.com^
+
+! [TunnelBear]
+||tunnelbear.com^
+||tunnelbear.org^
+
+! [Windscribe]
+||windscribe.com^
+||api.windscribe.com^
+
+! [Hotspot Shield]
+||hotspotshield.com^
+||hsselite.com^
+
+! [VyprVPN]
+||vyprvpn.com^
+||goldenfrog.com^
+
+! [PureVPN]
+||purevpn.com^
+||purevpn.org^
+
+! [Các ứng dụng VPN phổ biến khác trên Mobile]
+||supervpn.com^
+||turbovpn.com^
+||vpnmaster.com^
+||hola.org^
+||betternet.co^
+||zenmate.com^
+||ivacy.com^
+||privateinternetaccess.com^
+
+! [Các nền tảng Chat AI NSFW phổ biến]
+||spicychat.ai^
+||janitorai.com^
+||crushon.ai^
+||candy.ai^
+||muah.ai^
+||dreamgf.ai^
+||nastia.ai^
+||charstar.ai^
+||pephop.ai^
+||joyland.ai^
+||moemate.io^
+||venus.chub.ai^
+||perchance.org^
